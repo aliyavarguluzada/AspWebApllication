@@ -12,5 +12,13 @@ namespace AspWebApllication.Controllers
         {
             return View();
         }
+        public IActionResult Teacher()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
     }
 }
